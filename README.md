@@ -1,4 +1,5 @@
-# Sistema de Autogestión Institucional (SAI)
+# Sistema de Autogestión Institucional (SAI) 
+![LOGO SAI](img/LOGO SAI.png)
 
 ## Descripción
 Este proyecto surge de la necesidad de optimizar la gestión académica del **Instituto Tecnológico N°3**. El sistema centraliza la inscripción a mesas de examen, reduciendo la sobrecarga administrativa y evitando errores en los registros manuales. Fue desarrollado como parte del "Seminario de Aplicación", integrando un análisis profundo de requerimientos y una arquitectura de software escalable.
