@@ -3,7 +3,8 @@
 ## Descripción
 Este proyecto surge de la necesidad de optimizar la gestión académica del **Instituto Tecnológico N°3**. El sistema centraliza la inscripción a mesas de examen, reduciendo la sobrecarga administrativa y evitando errores en los registros manuales. Fue desarrollado como parte del "Seminario de Aplicación", integrando un análisis profundo de requerimientos y una arquitectura de software escalable.
 
-##Pantalla de acceso al sistema 
+## Pantalla de acceso al sistema 
+
 ![LOGIN](img/login%20-%20validacion%20de%20usuario.png)
 
 ## Características Principales
@@ -24,7 +25,7 @@ El sistema cuenta con una gestión basada en roles (RBAC) para garantizar la int
   - Generación de reportes y control de mesas de examen por carrera.
 
 **Panel administrativo - Visualización de mesas de examen cargadas y editables**
-![PANEL ADM](img/visualizacion$20de$20mesas%20de%20examen$20cargadas%20y%20modificables$20para$20adm.png)
+![PANEL ADM](img/visualizacion$20de$20mesas%20de%20exmaen$20cargadas%20y%20modificables$20para$20adm.png)
 
 ## Tecnologías Utilizadas
 - **Backend:** PHP (Arquitectura MVC).
