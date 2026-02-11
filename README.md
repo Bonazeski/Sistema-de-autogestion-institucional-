@@ -25,7 +25,7 @@ El sistema cuenta con una gestión basada en roles (RBAC) para garantizar la int
   - Generación de reportes y control de mesas de examen por carrera.
 
 **Panel administrativo - Visualización de mesas de examen cargadas y editables**
-![PANEL ADM](img/visualizacion$20de$20mesas%20de%20exmaen$20cargadas%20y%20modificables$20para$20adm.png)
+![PANEL ADM](img/visualizacion%20de%20mesas%20de%20exmaen%20cargadas%20y%20modificables%20para%20adm.png)
 
 ## Tecnologías Utilizadas
 - **Backend:** PHP (Arquitectura MVC).
