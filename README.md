@@ -1,8 +1,11 @@
 # Sistema de Autogestión Institucional (SAI) 
-![LOGO SAI](img/Logo SAI.png)
+![LOGO SAI](img/Logo%20SAI.png)
 
 ## Descripción
 Este proyecto surge de la necesidad de optimizar la gestión académica del **Instituto Tecnológico N°3**. El sistema centraliza la inscripción a mesas de examen, reduciendo la sobrecarga administrativa y evitando errores en los registros manuales. Fue desarrollado como parte del "Seminario de Aplicación", integrando un análisis profundo de requerimientos y una arquitectura de software escalable.
+
+##Pantalla de acceso al sistema 
+![LOGIN](img/login%-%validacion$de$usuario.png)
 
 ## Características Principales
 El sistema cuenta con una gestión basada en roles (RBAC) para garantizar la integridad de la información:
@@ -13,10 +16,16 @@ El sistema cuenta con una gestión basada en roles (RBAC) para garantizar la int
   - Gestión de inscripciones activas (visualización y cancelación).
   - Control de condiciones académicas (Regular, Libre, Promocionado).
 
+**Panel de alumnado - Visualización de mesas de examen**
+![PANEL ALUMNADO](img/visualizar%mesas%filtradas%al%alumno%para%inscribirse.png)
+
 - **Rol Secretaría Académica:**
   - Registro y administración de mesas de examen.
   - Modificación y edición de registros existentes con validación de integridad.
   - Generación de reportes y control de mesas de examen por carrera.
+
+**Panel administrativo - Visualización de mesas de examen cargadas y editables**
+![PANEL ADM](img/visualizacion$de$mesas%de%examen$cargadas%y%modificables$para$adm.png)
 
 ## Tecnologías Utilizadas
 - **Backend:** PHP (Arquitectura MVC).
